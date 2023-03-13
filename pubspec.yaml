@@ -50,9 +50,8 @@ dev_dependencies:
     sdk: flutter
   flutter_launcher_icons: ^0.12.0
 
-flutter icons:
+flutter_icons:
   android: true
-  ios: true
   image_path: "assets/logo_final.png"
   adaptive_icon_background: #ffffff
   adaptive_icon_foreground: "assets/logo_final.png"

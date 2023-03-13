@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.e_taponfinal">
    <application
-        android:label="e_taponfinal"
+        android:label="E-Tapon"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
